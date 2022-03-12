@@ -119,14 +119,14 @@ These 4 users  are required for the proper functioning of the application, which
 
 *Many thanks to [Mohammed Yehia](https://github.com/engmohammedyehia), this application is the fruit of work on his PHP/MySQL course.*
 
-[The course on YouTube](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3kkSDgCHFlpgL6qLrlHUBG)
-[The course Repository](https://github.com/ycourses/Es)
+[His course on YouTube](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3kkSDgCHFlpgL6qLrlHUBG)
 
-----
+[His course Repository](https://github.com/ycourses/Es)
+
+---
 
 ["Al·Maktaba | الـمـكـتـبـة" Repository](https://github.com/selyamanis/al-maktaba/)
 [@selyamanis](https://github.com/selyamanis/)
 <selyamanisalim@gmail.com>
 
----
 # al-maktaba
