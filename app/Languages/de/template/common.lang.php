@@ -1,0 +1,33 @@
+<?php
+
+$_['text_app_name'] = 'Al·Maktaba | الـمـكـتـبـة';
+$_['text_library_name'] = 'Al·Maktaba | الـمـكـتـبـة';
+$_['text_footer_source'] = 'Open Source Bibliothek Anwendung';
+$_['text_general_page'] = 'Allgemeine Seite';
+$_['text_books'] = 'Bücher';
+$_['text_books_list'] = 'Bücherliste';
+$_['text_authors_list'] = 'Autoren';
+$_['text_categories'] = 'Bücher Kategorien';
+$_['text_lend_books'] = 'Verleihen Bücher';
+$_['text_members'] = 'Mitglieder';
+$_['text_members_list'] = 'Mitgliederliste';
+$_['text_ranges'] = 'Reichweiten';
+$_['text_actions'] = 'Aktionen';
+$_['text_label_LoginName'] = 'Anmelden Name';
+$_['text_profile'] = 'Profilseite';
+$_['text_change_password'] = 'Passwort ändern';
+$_['text_settings'] = 'Einstellungen';
+$_['text_log_out'] = 'Abmelden';
+$_['text_log_in'] = 'Anmeldung';
+$_['text_not_found'] = 'Seite nicht gefunden';
+$_['text_access_denied'] = 'Entschuldigung, bitte geben Sie den zulässigen Aktion Reichweite ein';
+$_['text_action_show'] = 'Anzeigen';
+$_['text_action_edit'] = 'Bearbeiten';
+$_['text_action_delete'] = 'Löschen';
+$_['text_action_back'] = 'Zurück zur Liste';
+$_['text_filter_search'] = 'Filtersuche';
+$_['text_label_FilterSearchContent'] = 'Filtersuche im Inhalt :';
+$_['text_search'] = 'Suche';
+$_['text_empty'] = 'Leer';
+$_['text_id'] = 'ID';
+$_['text_LoginName_error'] = 'Anmelden Name bereits vergeben';

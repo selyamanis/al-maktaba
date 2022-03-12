@@ -1,0 +1,33 @@
+<?php
+
+$_['text_app_name'] = 'الـمـكـتـبـة | Al·Maktaba';
+$_['text_library_name'] = 'الـمـكـتـبـة | Al·Maktaba';
+$_['text_footer_source'] = 'تطبيق المكتبة مفتوح المصدر';
+$_['text_general_page'] = 'الصفحة العامة';
+$_['text_books'] = 'الكتب';
+$_['text_books_list'] = 'قائمة الكتب';
+$_['text_authors_list'] = 'الكاتبون';
+$_['text_categories'] = 'فئات الكتب';
+$_['text_lend_books'] = 'إعارة الكتب';
+$_['text_members'] = 'الأعضاء';
+$_['text_members_list'] = 'قائمة الأعضاء';
+$_['text_ranges'] = 'النطاقات';
+$_['text_actions'] = 'الإجراءات';
+$_['text_label_LoginName'] = 'إسم الدخول';
+$_['text_profile'] = 'الصفحة الشخصية';
+$_['text_change_password'] = 'تغيير كلمة المرور';
+$_['text_settings'] = 'الإعدادات';
+$_['text_log_out'] = 'تسجيل الخروج';
+$_['text_log_in'] = 'تسجيل الدخول';
+$_['text_not_found'] = 'صفحة غير موجودة';
+$_['text_access_denied'] = 'عفوا، يرجى الدخول بنطاق الإجراء المسموح به';
+$_['text_action_show'] = 'عرض';
+$_['text_action_edit'] = 'تعديل';
+$_['text_action_delete'] = 'حذف';
+$_['text_action_back'] = 'الرجوع للقائمة';
+$_['text_filter_search'] = 'بحث تصنيفي';
+$_['text_label_FilterSearchContent'] = 'بحث تصنيفي في المحتوى :';
+$_['text_search'] = 'بحث';
+$_['text_empty'] = 'فارغ';
+$_['text_id'] = 'المفتاح';
+$_['text_LoginName_error'] = 'اسم الدخول مأخوذ';

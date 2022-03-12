@@ -1,0 +1,36 @@
+<?php
+
+$_['text_legend'] = 'بيانات الكتاب';
+$_['text_label_AuthorName'] = 'الكاتب';
+$_['text_label_ChooseAuthor'] = 'اختيار الكاتب';
+$_['text_label_BookTitle'] = 'عنوان الكتاب';
+$_['text_label_AboutBook'] = 'نبذة عن الكتاب';
+$_['text_label_Pdf'] = 'الكتاب (Pdf)';
+$_['text_label_readPdf'] = 'قراءة الكتاب';
+$_['text_label_PdfUpdatedAt'] = 'تاريخ تحديث الكتاب';
+$_['text_label_Attachments'] = 'المرفقات';
+$_['text_label_Attachment'] = 'المرفق';
+$_['text_label_AttachmentName[]'] = 'المرفقات';
+$_['text_label_AddAttachments'] = 'إضافة المرفقات';
+$_['text_label_DeleteAttachments'] = 'حذف المرفقات';
+$_['text_label_ChooseAttachmentToDelete'] = 'اختيار مرفقات للحذف';
+$_['text_label_CategoryName'] = 'الفئة';
+$_['text_label_ChooseCategory'] = 'اختيار الفئة';
+$_['text_label_WritingYearH'] = 'سنة الكتابة (هـ)';
+$_['text_label_WritingYearG'] = 'سنة الكتابة (م)';
+$_['text_label_EditionYearH'] = 'سنة الإصدار (هـ)';
+$_['text_label_EditionYearG'] = 'سنة الإصدار (م)';
+$_['text_label_Editor'] = 'إصدار';
+$_['text_label_Language'] = 'اللغة';
+$_['text_label_Language[]'] = 'اللغة';
+$_['text_label_ChooseLanguage'] = 'اختيار اللغة';
+$_['text_label_AnotherLanguage'] = 'لغة أخرى';
+$_['text_label_Reference'] = 'رقم التصفيف';
+$_['text_label_ReadingSummaries'] = 'خلاصات القراءة';
+$_['text_label_ImageCover'] = 'صورة الغلاف';
+$_['text_label_ImageUpdatedAt'] = 'تاريخ تحديث الصورة';
+$_['text_label_NotDefined'] = 'غير محدد';
+$_['text_label_FilterSearchContent'] = 'بحث تصنيفي في المحتوى :';
+$_['text_label_actions'] = 'الإجراءات';
+$_['text_label_actions_delete_confirm'] = 'هل تود حذف الكتاب؟';
+$_['text_label_save'] = 'حفظ';

@@ -1,0 +1,33 @@
+<?php
+
+$_['text_app_name'] = 'Al·Maktaba | الـمـكـتـبـة';
+$_['text_library_name'] = 'Al·Maktaba | الـمـكـتـبـة';
+$_['text_footer_source'] = 'Open Source Library Application';
+$_['text_general_page'] = 'General Page';
+$_['text_books'] = 'Books';
+$_['text_books_list'] = 'Books List';
+$_['text_authors_list'] = 'Authors';
+$_['text_categories'] = 'Books Categories';
+$_['text_lend_books'] = 'Lend Books';
+$_['text_members'] = 'Members';
+$_['text_members_list'] = 'Members List';
+$_['text_ranges'] = 'Ranges';
+$_['text_actions'] = 'Actions';
+$_['text_label_LoginName'] = 'Login Name';
+$_['text_profile'] = 'Profile Page';
+$_['text_change_password'] = 'Change password';
+$_['text_settings'] = 'Settings';
+$_['text_log_out'] = 'Logout';
+$_['text_log_in'] = 'Login';
+$_['text_not_found'] = 'Page not found';
+$_['text_access_denied'] = 'Sorry, please enter by the allowed action range';
+$_['text_action_show'] = 'Show';
+$_['text_action_edit'] = 'Edit';
+$_['text_action_delete'] = 'Delete';
+$_['text_action_back'] = 'Back to list';
+$_['text_filter_search'] = 'Filter Search';
+$_['text_label_FilterSearchContent'] = 'Filter Search in Content :';
+$_['text_search'] = 'Search';
+$_['text_empty'] = 'Empty';
+$_['text_id'] = 'ID';
+$_['text_LoginName_error'] = 'Login Name already taken';

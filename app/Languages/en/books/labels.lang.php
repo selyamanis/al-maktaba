@@ -1,0 +1,36 @@
+<?php
+
+$_['text_legend'] = 'Book details';
+$_['text_label_AuthorName'] = 'The Author';
+$_['text_label_ChooseAuthor'] = 'Choose Author';
+$_['text_label_BookTitle'] = 'Book Title';
+$_['text_label_AboutBook'] = 'About Book';
+$_['text_label_Pdf'] = 'The Book (Pdf)';
+$_['text_label_readPdf'] = 'Read the Book';
+$_['text_label_PdfUpdatedAt'] = 'Pdf Updated At';
+$_['text_label_Attachments'] = 'Attachments';
+$_['text_label_Attachment'] = 'Attachment';
+$_['text_label_AttachmentName[]'] = 'Attachments';
+$_['text_label_AddAttachments'] = 'Add Attachments';
+$_['text_label_DeleteAttachments'] = 'Delete Attachments';
+$_['text_label_ChooseAttachmentToDelete'] = 'Choose Attachments To Delete';
+$_['text_label_CategoryName'] = 'Category';
+$_['text_label_ChooseCategory'] = 'Choose Category';
+$_['text_label_WritingYearH'] = 'Writing Year (H)';
+$_['text_label_WritingYearG'] = 'Writing Year (G)';
+$_['text_label_EditionYearH'] = 'Edition Year (H)';
+$_['text_label_EditionYearG'] = 'Edition Year (G)';
+$_['text_label_Editor'] = 'Editor';
+$_['text_label_Language'] = 'Language';
+$_['text_label_Language[]'] = 'Language';
+$_['text_label_ChooseLanguage'] = 'Choose Language';
+$_['text_label_AnotherLanguage'] = 'Another Language';
+$_['text_label_Reference'] = 'Reference';
+$_['text_label_ReadingSummaries'] = 'Reading Summaries';
+$_['text_label_ImageCover'] = 'Image Cover';
+$_['text_label_ImageUpdatedAt'] = 'Image Updated At';
+$_['text_label_NotDefined'] = 'Not Defined';
+$_['text_label_FilterSearchContent'] = 'Filter Search in Content :';
+$_['text_label_actions'] = 'Actions';
+$_['text_label_actions_delete_confirm'] = 'Would you like to delete this Book?';
+$_['text_label_save'] = 'Save';

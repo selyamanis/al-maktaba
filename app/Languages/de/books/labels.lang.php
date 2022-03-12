@@ -1,0 +1,36 @@
+<?php
+
+$_['text_legend'] = 'Buchdetails';
+$_['text_label_AuthorName'] = 'Der Autor';
+$_['text_label_ChooseAuthor'] = 'Autor wählen';
+$_['text_label_BookTitle'] = 'Buchtitel';
+$_['text_label_AboutBook'] = 'Über Buch';
+$_['text_label_Pdf'] = 'Das Buch (Pdf)';
+$_['text_label_readPdf'] = 'Lies das Buch';
+$_['text_label_PdfUpdatedAt'] = 'Pdf aktualisiert um';
+$_['text_label_Attachments'] = 'Anhänge';
+$_['text_label_Attachment'] = 'Anhang';
+$_['text_label_AttachmentName[]'] = 'Anhänge';
+$_['text_label_AddAttachments'] = 'Anhänge hinzufügen';
+$_['text_label_DeleteAttachments'] = 'Anhänge löschen';
+$_['text_label_ChooseAttachmentToDelete'] = 'Wählen Sie Anhänge zum Löschen';
+$_['text_label_CategoryName'] = 'Kategorie';
+$_['text_label_ChooseCategory'] = 'Kategorie wählen';
+$_['text_label_WritingYearH'] = 'Schreibjahr (H)';
+$_['text_label_WritingYearG'] = 'Schreibjahr (G)';
+$_['text_label_EditionYearH'] = 'Ausgabejahr (H)';
+$_['text_label_EditionYearG'] = 'Ausgabejahr (G)';
+$_['text_label_Editor'] = 'Veröffentlichung';
+$_['text_label_Language'] = 'Sprache';
+$_['text_label_Language[]'] = 'Sprache';
+$_['text_label_ChooseLanguage'] = 'Sprache wählen';
+$_['text_label_AnotherLanguage'] = 'Eine andere Sprache';
+$_['text_label_Reference'] = 'Referenz';
+$_['text_label_ReadingSummaries'] = 'Zusammenfassungen der Lektüre';
+$_['text_label_ImageCover'] = 'Titelbild';
+$_['text_label_ImageUpdatedAt'] = 'Bild aktualisiert um';
+$_['text_label_NotDefined'] = 'Nicht definiert';
+$_['text_label_FilterSearchContent'] = 'Filtersuche im Inhalt :';
+$_['text_label_actions'] = 'Aktionen';
+$_['text_label_actions_delete_confirm'] = 'Möchten Sie dieses Buch löschen?';
+$_['text_label_save'] = 'Speichern';
