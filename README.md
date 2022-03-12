@@ -113,7 +113,7 @@ Then, get access to the app at : http://al-maktaba/
 	Login Name : visitor
 	Password : visitor
 
-These 4 users  are required for the proper functioning of the application, which is why their actions of "edit" and "delete" are disabled.
+These 4 users  are required for the proper functioning of the application, which is why the actions of "edit" and "delete" them are disabled.
 
 ---
 
