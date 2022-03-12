@@ -117,7 +117,9 @@ These 4 users  are required for the proper functioning of the application, which
 
 ---
 
-*Many thanks to [Mohammed Yehia](https://github.com/engmohammedyehia), this application is the fruit of work on his PHP/MySQL course.*
+*Many thanks to [Mohammed Yehia](https://github.com/engmohammedyehia).*
+
+*This application is the fruit of work on his PHP/MySQL course.*
 
 - [His course on YouTube](https://www.youtube.com/playlist?list=PLrwRNJX9gLs3kkSDgCHFlpgL6qLrlHUBG)
 - [His course Repository](https://github.com/ycourses/Es)
