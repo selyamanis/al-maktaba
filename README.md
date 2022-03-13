@@ -93,27 +93,29 @@ Then, get access to the app at : http://al-maktaba/
 
 ## Usage
 
-##### Login as an admin :
+##### Login as an admin with the Preparation range of actions :
 
 	Login Name : admin1
 	Password : admin1
 
-##### Login as an admin with full ranges of actions :
+##### Login as an admin with the Service range (full actions) :
 
 	Login Name : admin2
 	Password : admin2
 
-##### Login as a member (for test) :
+##### Login as a member with the Members range of actions :
 
 	Login Name : member
 	Password : member
 
-##### Login as a visitor (for test) :
+##### Login as a visitor with the Visitors range of actions :
 
 	Login Name : visitor
 	Password : visitor
 
 These 4 users  are required for the proper functioning of the application, which is why the actions of "edit" and "delete" them are disabled.
+
+Only admins with the Service range have access to the Library settings, where to customize the Library information (name, image).
 
 ---
 
